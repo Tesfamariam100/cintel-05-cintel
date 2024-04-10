@@ -1,4 +1,8 @@
 faicons
-plotly
-pandas
+shiny
+shinylive
 shinywidgets
+pandas
+plotly
+pyarrow
+scipy
